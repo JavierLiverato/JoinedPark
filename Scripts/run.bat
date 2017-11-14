@@ -1,0 +1,1 @@
+activate & cd.. & cd joined_park & python manage.py runserver
